@@ -1,6 +1,6 @@
-from rplidar18 import CarController
+import numpy as np
 
-class AutoCruise(CarController):
+class AutoCruise():
     pass
 
 controller = AutoCruise()
